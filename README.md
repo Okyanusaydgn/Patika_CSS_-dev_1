@@ -1,4 +1,4 @@
-echo "# Bodybuilder Supplements Website
+# Bodybuilder Supplements Website
 
 ![Gainers](https://www.bodybuilding.com/images/2021/march/best-weight-gainers-of-2021-header-830x467.jpg)
 
